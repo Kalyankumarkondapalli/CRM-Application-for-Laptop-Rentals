@@ -26,9 +26,7 @@ CRM Experience
 Apex and Visualforce (For Custom Automation)
 Installation
 1. Clone the Repository:
-bash
-Copy code
-git clone https://github.com/YourUsername/CRM-Application-for-Laptop-Rentals.git
+
 2. Salesforce Setup:
 Create a Salesforce account if you don't already have one.
 Configure your Salesforce environment according to the project requirements.
