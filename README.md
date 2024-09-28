@@ -1,0 +1,2 @@
+# CRM-Application-for-Laptop-Rentals
+A CRM APPLICATION FOR LAPTOP RENTALS Category: Salesforce  Skills Required: Salesforce Developer  Project Description:  CRM Application on Laptop rentals is about delivering the items to the customers by rental purpose. It leverages the power of customer relationship management (CRM) to enhance customer experiences.
